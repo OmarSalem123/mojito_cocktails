@@ -137,19 +137,19 @@ const socials = [
 const sliderLists = [
   {
     id: 1,
-    name: "Classic Mojito",
+    name: "Classic Mint Cooler",
     image: "/images/drink1.png",
     title: "Simple Ingredients, Bold Flavor",
     description:
-      "Made with tequila, lime juice, and orange liqueur, the Margarita is easy to make and full of character. Add a salted rim for the perfect drink on summer nights.",
+      "Made with fresh mint, lime juice, and soda water, this mocktail is refreshing and full of character. Add a touch of honey for the perfect drink on summer nights.",
   },
   {
     id: 2,
-    name: "Raspberry Mojito",
+    name: "Raspberry Refresher",
     image: "/images/drink2.png",
     title: "A Zesty Classic That Never Fails",
     description:
-      "The Margarita is a classic that balances tangy lime, smooth tequila, and a touch of sweetness. Shaken, frozen, or on the rocks—it’s always crisp & refreshing.",
+      "This fruity drink blends raspberries, lime, and a splash of sparkling water for a crisp and vibrant taste. Always refreshing, whether shaken or served over ice.",
   },
   {
     id: 3,
@@ -157,15 +157,15 @@ const sliderLists = [
     image: "/images/drink3.png",
     title: "Simple Ingredients, Bold Flavor",
     description:
-      "Made with tequila, lime juice, and orange liqueur, the Margarita is easy to make and full of character. Add a salted rim for the perfect drink on summer nights.",
+      "Enjoy a mix of blueberry, lavender syrup, and lemon juice with chilled sparkling water. A floral and fruity mocktail perfect for relaxing evenings.",
   },
   {
     id: 4,
-    name: "Curacao Mojito",
+    name: "Citrus Mojito",
     image: "/images/drink4.png",
     title: "Crafted With Care, Poured With Love",
     description:
-      "Each cocktail is made with fresh ingredients and a passion for perfecting every pour, whether you're celebrating or simply relaxing.",
+      "Made with citrus slices, mint leaves, and soda water, this zesty mocktail is prepared with fresh ingredients to brighten up any moment.",
   },
 ];
 
